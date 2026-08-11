@@ -1,0 +1,17 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#D4AF37" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="798" fill="none" stroke="#D4AF37" stroke-opacity="0.25" stroke-width="1"/>
+  <line x1="560.0" y1="394.0" x2="640.0" y2="394.0" stroke="#D4AF37" stroke-width="1" opacity="0.6"/>
+  <text x="50%" y="418.0" font-family="Poppins, Arial, sans-serif" font-size="42" font-weight="600" fill="#D4AF37" text-anchor="middle" letter-spacing="2">PROJECT PLACEHOLDER</text>
+  <text x="50%" y="440.0" font-family="Manrope, Arial, sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.35" text-anchor="middle" letter-spacing="3">COMMERCIAL</text>
+</svg>
